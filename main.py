@@ -1,4 +1,0 @@
-import pygame
-
-help(pygame
-     )
